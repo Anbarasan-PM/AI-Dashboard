@@ -1,0 +1,6 @@
+python=3.10
+pandas
+pygithub3
+scipy
+plotly
+streamlit=0.58.0
