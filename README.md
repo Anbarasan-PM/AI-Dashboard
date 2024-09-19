@@ -120,7 +120,7 @@ The application offers three main sections for analyzing GitHub repository data:
 
 **Natural Language Query Interface - Chat Bot**
 
-<img src="Chat_Bot.png" alt="Chat Bot" width="400"/>
+<img src="https://github.com/Anbarasan-PM/AI-Dashboard/blob/main/dev_performance_dashboard_1/Screenshot%202024-09-16%20075927.png" alt="Chat Bot" width="400"/>
 
 
 
