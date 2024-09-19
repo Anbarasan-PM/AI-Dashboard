@@ -116,7 +116,7 @@ The application offers three main sections for analyzing GitHub repository data:
 
 **Overall Metrics**
 
-<img src="Overall_Metrics.png" alt="Overall Metrics" width="400"/>
+<img src="https://github.com/Anbarasan-PM/AI-Dashboard/blob/main/dev_performance_dashboard_1/Overall_Metrics.png" alt="Overall Metrics" width="400"/>
 
 **Natural Language Query Interface - Chat Bot**
 
