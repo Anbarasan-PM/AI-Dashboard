@@ -111,7 +111,7 @@ The application offers three main sections for analyzing GitHub repository data:
 
 **Individual Contributor Statistics**
 
-<img src="https://drive.google.com/file/d/1fZZmGwa84ZFbcIHf9dhHgsuDMZPJHFSF/view?usp=drive_link" alt="Individual Contributor Statistics" width="400"/>
+<img src="https://github.com/Anbarasan-PM/AI-Dashboard/blob/main/dev_performance_dashboard_1/Individual_Contributor_Statistics.png" alt="Individual Contributor Statistics" width="400"/>
 
 
 **Overall Metrics**
