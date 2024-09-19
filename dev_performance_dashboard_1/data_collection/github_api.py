@@ -16,7 +16,7 @@ import numpy as np
 # collect data from repo
 def get_github_data(repo_url):
     # access token
-    auth = Auth.Token("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")
+    auth = Auth.Token("github_pat_11ATOXDQQ07SzoHZziF41N_35FXjkGeDlvsEmswo8iSpm7IuBxvz10v2hgcgnvyxutdx")
     g = Github(auth=auth)
 
     # matches user name and repo name 
